@@ -1,0 +1,96 @@
+1.Visual Component is composite of ......distinct aspects.
+	
+1.Four
+2.Six
+3.Three
+4.Two
+
+Answer: 3.Three
+
+2.True or False
+Way that the component looks when rendered on the screen is not important for MVC
+
+1.True
+2.False
+
+Answer:2.False
+
+3.True or False
+It is important that the way that component react to the user
+
+1.True
+2.False
+
+Answer:1.True
+
+4.MVC architechutre state the associated information with the component
+
+1.True
+2.False
+
+Answer:1.True
+
+5.In MVC what does Model-View-Controller associates?
+1.State information associated with the component
+2.How component react to the user
+3.How component displays on screen
+4.all of the above
+
+Answer:4.all of the above
+
+6.In MVC what does M Associates?
+
+1.State information associated with the component
+2.How component react to the user
+3.How component displays on screen
+4.None of the above
+
+Answer:1.State information associated with the component
+
+7.In MVC what does V Associates?
+
+1.State information associated with the component
+2.How component react to the user
+3.How component displays on screen
+4.None of the above
+
+Answer:2.How component react to the user
+
+8.In MVC what does C Associates?
+
+1.State information associated with the component
+2.How component react to the user
+3.How component displays on screen
+4.None of the above
+
+Answer:3.How component displays on screen
+
+9.Does swing uses Modifed version of MVC
+
+1.Yes
+2.No
+
+Answer:1.Yes
+
+10.Java Swings uses a modified version of MVC architecture, in which view and controller are combined into single entity called?
+
+1.UI delegate
+2. Updated View Delegation(UED)
+3.MMVC
+4.None of the above
+
+Answer:1.UI delegate
+
+11.Modified version of MVC is 
+
+1.Model-Delegate architecture 
+2.Separable Model architecture
+3.Both 1 & 2
+4.None of the above
+
+Answer 3.Both of the Above
+
+
+
+
+
